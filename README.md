@@ -2,10 +2,7 @@
 
 
 - 🌱 I’m currently learning in 42seoul
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-- 📫 How to reach me: ...
 
 ## My Skill
 
@@ -45,5 +42,6 @@
 <img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/yejeong" alt="nkim" width="480px" />
 </details>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYenowme1212%2Fhit-counter" alt="yenowme" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yenowme" alt="yenowme" />
 
 <div>
