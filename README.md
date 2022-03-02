@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Jeong YeNa
+### Hi there 👋, I'm Jeong Yena
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYenowme1212%2Fhit-counter" alt="yenowme" />
 
 
 ## My Skill
 
-### Languages
+#### Languages
 
 <div class="language" width="100">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -13,7 +13,7 @@
   </div>
 <div>
   
-### Client
+#### Client
   
   <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -23,19 +23,32 @@
 </div>
   
 #### Server
+ 
 <div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   </div>
 </div>
 
+#### Desing
+
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" />
+  
+</div>
 
 
-### Stats 🔭
+## Stats 🔭
+
 <div>
   
-<img src="https://github-readme-stats.vercel.app/api?username=Yenowme&theme=blue-green" />
-  </div>
+<!--    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yenowme&theme=vue" /> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=Yenowme&theme=blue-green" />
+</div>
+  
+  
 <details>
 <summary>Certificate</summary>
 <img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/yejeong" alt="nkim" width="480px" />
